@@ -1,0 +1,31 @@
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore compiled binaries
+*.exe
+*.dll
+
+# Ignore IDE/Editor files
+.vscode/
+.idea/
+
+# Ignore dependencies and build output
+node_modules/
+dist/
+build/
+
+# Ignore sensitive information
+secret.txt
+api_key.json
+
+# Ignore operating system files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and backup files
+*.log
+*.bak
+
+# Ignore .hintrc
+.hintrc
