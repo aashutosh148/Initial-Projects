@@ -9,6 +9,8 @@ Welcome to my repository where I will showcase a collection of static projects. 
 |---------|-------------|
 | 01 | [All IAF jets](https://aashutosh148.github.io/Initial-Projects/Project_01/index.html) |
 | 02 | [Progress Bar](https://aashutosh148.github.io/Initial-Projects/Project_02/index.html) |
+| 03 | [Rotating Nav](https://aashutosh148.github.io/Initial-Projects/Project_03/index.html) |
+| 04 | [Hidden search bar](https://aashutosh148.github.io/Initial-Projects/Project_04/index.html) |
 
 ## About
 
