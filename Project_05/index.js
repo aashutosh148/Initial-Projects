@@ -1,3 +1,7 @@
+function delayedFunction() {
+}
+setTimeout(delayedFunction, 5000);
+
 const load = document.querySelector('.loading-text');
 const bg = document.querySelector('img');
 let loading = 0;
