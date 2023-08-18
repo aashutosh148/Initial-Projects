@@ -12,6 +12,7 @@ Welcome to my repository where I will showcase a collection of static projects. 
 | 03 | [Rotating Nav](https://aashutosh148.github.io/Initial-Projects/Project_03/index.html) |
 | 04 | [Hidden search bar](https://aashutosh148.github.io/Initial-Projects/Project_04/index.html) |
 | 05 | [Blurry loading](https://aashutosh148.github.io/Initial-Projects/Project_05/index.html) |
+| 06 | [Scroll and See](https://aashutosh148.github.io/Initial-Projects/Project_06/index.html) |
 
 ## About
 
