@@ -14,6 +14,7 @@ Welcome to my repository where I will showcase a collection of static projects. 
 | 05 | [Blurry loading](https://aashutosh148.github.io/Initial-Projects/Project_05/index.html) |
 | 06 | [Scroll and See](https://aashutosh148.github.io/Initial-Projects/Project_06/index.html) |
 | 07 | [Split Screen](https://aashutosh148.github.io/Initial-Projects/Project_07/index.html) |
+| 08 | [Wave Flow ](https://aashutosh148.github.io/Initial-Projects/Project_08/index.html) |
 
 ## About
 
