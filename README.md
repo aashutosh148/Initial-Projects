@@ -15,6 +15,7 @@ Welcome to my repository where I will showcase a collection of static projects. 
 | 06 | [Scroll and See](https://aashutosh148.github.io/Initial-Projects/Project_06/index.html) |
 | 07 | [Split Screen](https://aashutosh148.github.io/Initial-Projects/Project_07/index.html) |
 | 08 | [Wave Flow ](https://aashutosh148.github.io/Initial-Projects/Project_08/index.html) |
+| 09 | [Guess the Number ](https://aashutosh148.github.io/Initial-Projects/Project_09/index.html)|
 
 ## About
 
